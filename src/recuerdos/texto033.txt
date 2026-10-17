@@ -1,4 +1,5 @@
 tipo: foto
-titulo: 33. Recuerdo reservado 033
+titulo: 33. Foto de pequeña
 ---
-Aquí irá una foto con unas palabras tuyas. Reemplaza este archivo (texto033.txt) y la imagen img033.jpg.
+Cuando alguien me pregunta si estoy ENAMORADO, mi mente va directo a esa niña con 5 letras en su nombre.
+HELEN <3
