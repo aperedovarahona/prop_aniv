@@ -1,4 +1,0 @@
-tipo: foto
-titulo: 37. Recuerdo reservado 037
----
-Aquí irá una foto con unas palabras tuyas. Reemplaza este archivo (texto037.txt) y la imagen img037.jpg.
