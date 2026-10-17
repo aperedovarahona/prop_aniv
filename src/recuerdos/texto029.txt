@@ -1,0 +1,6 @@
+tipo: carta
+titulo: 29. Mi deseo para nosotros
+---
+Si pudiera pedir algo bonito para nuestra historia, no pediría que nunca tuviéramos dificultades ni que todo saliera siempre de acuerdo con nuestros planes. Preferiría que tuviéramos la paciencia necesaria para escucharnos, la confianza para decirnos lo que sentimos y la disposición de buscar soluciones cuando las cosas se compliquen.
+
+Quisiera que siguiéramos encontrando motivos para reírnos, lugares nuevos que visitar y conversaciones que nos permitan conocernos mejor. Que cada uno pueda crecer, perseguir sus propios sueños y sentirse acompañado sin dejar de ser independiente. Y que, cuando miremos hacia atrás, podamos reconocer no solamente cuánto nos quisimos, sino también cuánto aprendimos a cuidarnos.

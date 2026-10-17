@@ -1,0 +1,4 @@
+tipo: foto
+titulo: 40. Recuerdo reservado 040
+---
+Aquí irá una foto con unas palabras tuyas. Reemplaza este archivo (texto040.txt) y la imagen img040.jpg.

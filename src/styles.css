@@ -1,0 +1,40 @@
+*{box-sizing:border-box;margin:0}
+html,body,#root,main{height:100%}
+body{background:radial-gradient(ellipse at 50% 42%,#0b1a4d 0%,#050b24 45%,#02040f 80%);color:#f4eefc;font-family:'Cormorant Garamond',serif;overflow:hidden;overscroll-behavior:none}
+canvas{display:block;touch-action:none}
+.hud{position:fixed;left:0;right:0;pointer-events:none;padding:max(1.2rem,env(safe-area-inset-top)) 1.4rem;text-align:center}
+.hud.top{top:0}
+.hud.top h1{font-family:'Dancing Script',cursive;font-size:clamp(2rem,6vw,3.2rem);background:linear-gradient(90deg,#3fd0ff,#ff5fa2,#ffa070);-webkit-background-clip:text;background-clip:text;color:transparent}
+.hud.top p{opacity:.7;letter-spacing:.2em;text-transform:uppercase;font-size:.8rem}
+.hud.bottom{bottom:0;padding-bottom:max(1.2rem,env(safe-area-inset-bottom));max-width:520px;margin:0 auto}
+.stage{display:flex;justify-content:space-between;font-size:1.05rem;margin-bottom:.4rem}
+.bar{height:5px;border-radius:9px;background:rgba(255,255,255,.12);overflow:hidden}
+.bar i{display:block;height:100%;border-radius:9px;background:linear-gradient(90deg,#3fd0ff,#ff5fa2,#ffa070);transition:width 1s cubic-bezier(.2,.8,.2,1);box-shadow:0 0 12px #ff5fa2}
+.hint{opacity:.55;font-size:.85rem;margin-top:.7rem}
+.hud button{pointer-events:auto;margin-top:.6rem;background:none;border:1px solid rgba(255,255,255,.18);color:inherit;border-radius:99px;padding:.25rem .9rem;font:inherit;font-size:.8rem;opacity:.6;cursor:pointer}
+.hud button:hover{opacity:1}
+
+.swal-glass{border:1px solid rgba(255,255,255,.12)!important;border-radius:22px!important;font-family:'Cormorant Garamond',serif!important;box-shadow:0 0 60px rgba(63,208,255,.22)!important}
+.swal-glass .swal2-title{font-family:'Dancing Script',cursive;font-size:2rem;color:#ffe3f1}
+.swal-glass .swal2-html-container{margin:1rem 1.2rem}
+.swal-glass .swal2-confirm{border-radius:99px!important;font-family:inherit!important}
+.swal-star{border:none!important}.star{font-size:2.4rem;color:#ff9a6b}
+.mem-img{max-width:100%;max-height:50vh;border-radius:14px;margin-bottom:1rem;box-shadow:0 8px 30px rgba(0,0,0,.5)}
+.mem-text{white-space:pre-line;line-height:1.7;font-size:1.2rem;text-align:left}
+.mem-date{margin-top:.9rem;opacity:.6;font-size:.9rem;letter-spacing:.15em}
+.tipo-carta .mem-text{font-family:'Dancing Script',cursive;font-size:1.4rem;background:#f6ecd6;color:#3b2a1a;padding:1.3rem;border-radius:10px}
+.tipo-nota .mem-text{background:rgba(95,214,255,.1);border-left:3px solid #5fd6ff;padding:1rem}
+.mem-video{display:block;width:100%;aspect-ratio:16/9;border:0;border-radius:14px;margin-bottom:1rem;background:#000}
+.mem-audio{width:100%;margin:.4rem 0 1rem}
+.mem-link{display:inline-block;margin-bottom:1rem;color:#ffe3f1}
+.time{display:flex;justify-content:center;gap:.9rem;margin-top:.35rem}
+.time span{display:flex;flex-direction:column;align-items:center;min-width:2.2rem}
+.time b{font-size:clamp(1.1rem,3.6vw,1.5rem);font-weight:600;font-variant-numeric:tabular-nums lining-nums;color:#eaf6ff;text-shadow:0 0 14px rgba(63,208,255,.55)}
+.time i{font-style:normal;font-size:.62rem;letter-spacing:.2em;text-transform:uppercase;opacity:.6}
+.hud button{margin-inline:.25rem}
+.hud .add{opacity:.9;border-color:rgba(63,208,255,.55)}
+.form{display:grid;gap:.6rem;text-align:left}
+.form .swal2-input,.form .swal2-select,.form .swal2-textarea{margin:0;width:100%;max-width:100%;background:rgba(255,255,255,.06);color:#eef6ff;border-color:rgba(255,255,255,.18);font-size:1rem}
+.form .swal2-textarea{min-height:4.5rem}
+.form .swal2-select option{color:#071028}
+.f-file{display:grid;gap:.25rem;font-size:.9rem;opacity:.9}

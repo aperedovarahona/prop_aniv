@@ -1,0 +1,4 @@
+tipo: foto
+titulo: 36. Recuerdo reservado 036
+---
+Aquí irá una foto con unas palabras tuyas. Reemplaza este archivo (texto036.txt) y la imagen img036.jpg.

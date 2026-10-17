@@ -1,0 +1,4 @@
+tipo: foto
+titulo: 38. Recuerdo reservado 038
+---
+Aquí irá una foto con unas palabras tuyas. Reemplaza este archivo (texto038.txt) y la imagen img038.jpg.

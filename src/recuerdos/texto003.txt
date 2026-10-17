@@ -1,0 +1,6 @@
+tipo: nota
+titulo: 03. Mi lugar favorito
+---
+Nunca pensé que una persona pudiera cambiar tanto la manera en que uno disfruta de las cosas más sencillas. Contigo, una conversación cualquiera puede convertirse en uno de mis momentos favoritos del día, y un rato compartido puede quedarse en mi memoria mucho después de que nos hayamos despedido.
+
+No necesito que cada encuentro sea extraordinario ni que siempre tengamos algo impresionante que hacer. Muchas veces, lo único que quiero es estar contigo, escucharte hablar de tus cosas, reírme de alguna ocurrencia tuya y disfrutar de esa tranquilidad tan bonita que encuentro cuando estamos juntos.
